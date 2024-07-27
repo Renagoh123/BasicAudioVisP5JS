@@ -33,3 +33,7 @@ The GUI panel for the Spinning Wheel visualization includes options for:
 
 ## Documentation
 For more information on the FFT object and its methods, refer to the [p5.sound documentation](https://p5js.org/reference/#/p5.FFT).
+
+## Demo Video
+[Watch the demo video](https://youtu.be/epZVgCs9Jyc)
+
