@@ -1,6 +1,5 @@
 # Basic Music Visualizer
 
-## Description
 This project is a simple music visualization program created using p5.js and JavaScript. It features seven distinct visualizations that transform sound into visual elements using p5.js's Fast Fourier Transform (FFT) object.
 
 ## Visualizations
