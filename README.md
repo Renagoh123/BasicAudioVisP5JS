@@ -1,12 +1,10 @@
 # Basic Music Visualizer
-
 An interactive, audio-reactive **music visualization tool** built with **p5.js**.  
 This program features **seven dynamic visualizations** that translate sound into art using **Fast Fourier Transform (FFT)** techniques.
 
-[🎥 Watch the demo video](https://youtu.be/epZVgCs9Jyc)
+🎥 [Watch the demo video](https://youtu.be/epZVgCs9Jyc)
 
 ## Overview
-
 - Built using **JavaScript** and **p5.js**
 - Uses **p5.sound's FFT object** for analyzing audio frequencies
 - Real-time audio visualization synced to music playback
@@ -14,7 +12,6 @@ This program features **seven dynamic visualizations** that translate sound into
 
 
 ## Available Visualizations
-
 1. **Spectrum**  
    Horizontal bars that change color (green to red) based on amplitude.
    
